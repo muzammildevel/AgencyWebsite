@@ -49,7 +49,7 @@ export default function ThreeDMarqueeDemo() {
                 </div>
                 <h2 className="section-title mt-5">Previous Work Proofs</h2>
                 <p className="section-description mt-5">
-                Explore the innovative projects we've recently completed, showcasing our dedication to delivering high-quality solutions that meet the unique needs of our clients.
+                Explore the innovative projects we&apos;ve recently completed, showcasing our dedication to delivering high-quality solutions that meet the unique needs of our clients.
                 </p>
             </div>
             <div className="mx-auto my-10 max-w-7xl rounded-3xl bg-gray-950/5 p-2 ring-1 ring-neutral-700/10 dark:bg-neutral-800">

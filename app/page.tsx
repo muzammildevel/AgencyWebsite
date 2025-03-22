@@ -19,7 +19,7 @@ import LetsMakeThingsHappenSection from "@/components/ui/lets-make-things-happen
 import Spotlight from "@/components/spotlight";
 import RainbowCursor from "@/components/rainbow-cursor/rainbow-cursor"
 import { Testimonials } from "@/components/Testimonials";
-import Headroom from 'react-headroom';
+import Headroom from "react-headroom";
 import { FAQAccordion } from "@/components/faq-accordion"
 import { BRANDS } from "@/components/page.constants";
 import CoolMarquee from "@/components/CoolMarquee";
@@ -150,11 +150,8 @@ export default function Home() {
           <h1>
             <CoverDemo />
           </h1>
-          <p
-            className="md:text-center
-           text-xl md:text-2xl my-6 md:my-10 md:w-4/5 mx-auto text-gray-500"
-          >
-            Marketing is not all about running ads, its about making a good place in someone's heart for your brand
+          <p className="md:text-center text-xl md:text-2xl my-6 md:my-10 md:w-4/5 mx-auto text-gray-500">
+            Marketing is not all about running ads its about making a good place in someone heart for your brand
           </p>
 
           <div
@@ -190,7 +187,7 @@ export default function Home() {
               bg-white py-3 px-10 md:px-16 md:text-xl border-2 border-black dark:border-black rounded-[6px]
               hover:shadow-[1px_1px_rgba(0,0,0),2px_2px_rgba(0,0,0),3px_3px_rgba(0,0,0),4px_4px_rgba(0,0,0),5px_5px_0px_0px_rgba(0,0,0)] dark:shadow-[1px_1px_rgba(255,255,255),2px_2px_rgba(255,255,255),3px_3px_rgba(255,255,255),4px_4px_rgba(255,255,255),5px_5px_0px_0px_rgba(255,255,255)]"
             >
-              Projects we're Showcasing
+              Projects we&apos;re Showcasing
             </Link>
           </div>
 
@@ -385,7 +382,7 @@ export default function Home() {
           <p className="text-center 
           py-4 md:w-1/2 mx-auto 
           text-xl md:text-2xl text-gray-500">
-            With a 100% Trusted Ratio from our clients, All of our services are designed to help your brand to get
+            With a 100% Trusted Ratio from our clients All of our services are designed to help your brand to get
             a good bussiness.
           </p>
 
@@ -402,37 +399,6 @@ export default function Home() {
         </main>
       </Element>
 
-      {/* <section>
-        <main className="md:flex items-center justify-center space-y-6 md:space-y-0 md:gap-x-20 xl:w-4/5 2xl:w-[68%] mx-auto px-6 md:px-0">
-          <Image
-            src={"/logo/rmt-owner1.png"}
-            width={10000}
-            height={10000}
-            className=" md:w-1/3 rounded-md"
-            alt="image"
-          />
-          <div className="flex flex-col gap-y-5 md:w-1/2">
-            <h1 className="text-lg md:text-2xl ">
-              &quot;We&apos;ve been working with DCS DESIGN & DEVELOPMENT AGENCY for over 2 years and
-              they&apos;ve been amazing to work with. They&apos;ve helped us
-              grow our business and we have been so happier with the
-              growth of the company and results we&apos;ve got. &quot;
-            </h1>
-            <div className="flex items-center gap-x-1">
-              <IconStarFilled className="text-4xl text-yellow-500" />
-              <IconStarFilled className="text-4xl text-yellow-500" />
-              <IconStarFilled className="text-4xl text-yellow-500" />
-              <IconStarFilled className="text-4xl text-yellow-500" />
-              <IconStarFilled className="text-4xl text-yellow-500" />
-            </div>
-
-            <span className="text-xl font-medium">
-              Jordan, Brisson <br />
-              CEO, Atlas Massage
-            </span>
-          </div>
-        </main>
-      </section> */}
 
       <section>
         <ThreeDMarqueeDemo />

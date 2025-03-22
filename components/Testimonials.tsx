@@ -12,7 +12,7 @@ import avatar9 from "@/assets/avatar-9.png";
 import React, { useEffect, useState } from "react";
 import { div } from "framer-motion/client";
 import { twMerge } from "tailwind-merge";
-import { motion } from 'framer-motion';
+import { motion } from "framer-motion";
 import { cn } from "@/lib/utils";
 import Image from "next/image";
 

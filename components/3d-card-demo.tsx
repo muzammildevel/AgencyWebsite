@@ -12,7 +12,7 @@ export default function ThreeDCardDemo() {
                 <CardContainer className="inter-var">
                     <CardBody className="bg-gray-50 relative group/card  dark:hover:shadow-2xl dark:hover:shadow-emerald-500/[0.1] dark:bg-black dark:border-white/[0.2] border-black/[0.1] w-auto sm:w-[30rem] h-auto rounded-xl p-6 border  ">
                         <CardItem translateZ="50" className="text-xl font-bold text-neutral-600 dark:text-white">
-                            WeightWatchers (WW) International, Inc.
+                            WeightWatchers (WW) International Inc.
                         </CardItem>
                         <CardItem as="p" translateZ="60" className="text-neutral-500 text-sm max-w-sm mt-2 dark:text-neutral-300">
                             WeightWatchers provides science-backed weight loss programs with personalized meal plans, tracking tools, and coaching support.
@@ -52,10 +52,10 @@ export default function ThreeDCardDemo() {
                 <CardContainer className="inter-var">
                     <CardBody className="bg-gray-50 relative group/card  dark:hover:shadow-2xl dark:hover:shadow-emerald-500/[0.1] dark:bg-black dark:border-white/[0.2] border-black/[0.1] w-auto sm:w-[30rem] h-auto rounded-xl p-6 border  ">
                         <CardItem translateZ="50" className="text-xl font-bold text-neutral-600 dark:text-white">
-                            Cantor’s Driving School Nevada
+                            Cantor&apos;s Driving School Nevada
                         </CardItem>
                         <CardItem as="p" translateZ="60" className="text-neutral-500 text-sm max-w-sm mt-2 dark:text-neutral-300">
-                            Cantor’s Driving School offers professional behind-the-wheel training with certified instructors, helping students become safe and confident drivers.
+                            Cantor&apos;s Driving School offers professional behind-the-wheel training with certified instructors&lsquo; helping students become safe and confident drivers.
                         </CardItem>
                         <CardItem translateZ="100" className="w-full mt-4">
                             <Image
@@ -92,10 +92,10 @@ export default function ThreeDCardDemo() {
                 <CardContainer className="inter-var">
                     <CardBody className="bg-gray-50 relative group/card  dark:hover:shadow-2xl dark:hover:shadow-emerald-500/[0.1] dark:bg-black dark:border-white/[0.2] border-black/[0.1] w-auto sm:w-[30rem] h-auto rounded-xl p-6 border  ">
                         <CardItem translateZ="50" className="text-xl font-bold text-neutral-600 dark:text-white">
-                            Barx Parx Indoor Dog Park & Dog Daycare
+                            Barx Parx Indoor Dog Park & Dog Daycare
                         </CardItem>
                         <CardItem as="p" translateZ="60" className="text-neutral-500 text-sm max-w-sm mt-2 dark:text-neutral-300">
-                            Barx Parx is an indoor dog park offering dog daycare, training, grooming, and social events in a safe, fun environment.
+                            Barx Parx is an indoor dog park offering dog daycare&lsquo; training&lsquo; grooming&lsquo; and social events in a safe&lsquo; fun environment.
                         </CardItem>
                         <CardItem translateZ="100" className="w-full mt-4">
                             <Image
@@ -132,7 +132,7 @@ export default function ThreeDCardDemo() {
                 <CardContainer className="inter-var">
                     <CardBody className="bg-gray-50 relative group/card  dark:hover:shadow-2xl dark:hover:shadow-emerald-500/[0.1] dark:bg-black dark:border-white/[0.2] border-black/[0.1] w-auto sm:w-[30rem] h-auto rounded-xl p-6 border  ">
                         <CardItem translateZ="50" className="text-xl font-bold text-neutral-600 dark:text-white">
-                            The Cleaning Buffs
+                            The Cleaning Buffs
                         </CardItem>
                         <CardItem as="p" translateZ="60" className="text-neutral-500 text-sm max-w-sm mt-2 dark:text-neutral-300">
                             The Cleaning Buffs provide reliable residential and commercial cleaning services with attention to detail and customer satisfaction.
@@ -172,10 +172,10 @@ export default function ThreeDCardDemo() {
                 <CardContainer className="inter-var">
                     <CardBody className="bg-gray-50 relative group/card  dark:hover:shadow-2xl dark:hover:shadow-emerald-500/[0.1] dark:bg-black dark:border-white/[0.2] border-black/[0.1] w-auto sm:w-[30rem] h-auto rounded-xl p-6 border  ">
                         <CardItem translateZ="50" className="text-xl font-bold text-neutral-600 dark:text-white">
-                            Designs by D&J
+                            Designs by D&J
                         </CardItem>
                         <CardItem as="p" translateZ="60" className="text-neutral-500 text-sm max-w-sm mt-2 dark:text-neutral-300">
-                            Designs by D&J specializes in personalized event planning, floral arrangements, and elegant décor for all occasions. They bring visions to life with style.
+                            Designs by D&J specializes in personalized event planning&lsquo; floral arrangements&lsquo; and elegant decor for all occasions. They bring visions to life with style.
                         </CardItem>
                         <CardItem translateZ="100" className="w-full mt-4">
                             <Image
@@ -212,10 +212,10 @@ export default function ThreeDCardDemo() {
                 <CardContainer className="inter-var">
                     <CardBody className="bg-gray-50 relative group/card  dark:hover:shadow-2xl dark:hover:shadow-emerald-500/[0.1] dark:bg-black dark:border-white/[0.2] border-black/[0.1] w-auto sm:w-[30rem] h-auto rounded-xl p-6 border  ">
                         <CardItem translateZ="50" className="text-xl font-bold text-neutral-600 dark:text-white">
-                            A to Z Renovations NY
+                            A to Z Renovations NY
                         </CardItem>
                         <CardItem as="p" translateZ="60" className="text-neutral-500 text-sm max-w-sm mt-2 dark:text-neutral-300">
-                            A to Z Renovations offers remodeling services for kitchens, bathrooms, and full homes across NYC. They focus on quality craftsmanship and design.
+                            A to Z Renovations offers remodeling services for kitchens&lsquo; bathrooms&lsquo; and full homes across NYC. They focus on quality craftsmanship and design.
                         </CardItem>
                         <CardItem translateZ="100" className="w-full mt-4">
                             <Image
@@ -252,10 +252,10 @@ export default function ThreeDCardDemo() {
                 <CardContainer className="inter-var">
                     <CardBody className="bg-gray-50 relative group/card  dark:hover:shadow-2xl dark:hover:shadow-emerald-500/[0.1] dark:bg-black dark:border-white/[0.2] border-black/[0.1] w-auto sm:w-[30rem] h-auto rounded-xl p-6 border  ">
                         <CardItem translateZ="50" className="text-xl font-bold text-neutral-600 dark:text-white">
-                            Sotto Mare Oysteria & Seafood Restaurant
+                            Sotto Mare Oysteria & Seafood Restaurant
                         </CardItem>
                         <CardItem as="p" translateZ="60" className="text-neutral-500 text-sm max-w-sm mt-2 dark:text-neutral-300">
-                            Sotto Mare serves classic Italian seafood dishes in a cozy, old-school North Beach setting. Famous for its fresh seafood and local charm.
+                            Sotto Mare serves classic Italian seafood dishes in a cozy&lsquo; old-school North Beach setting. Famous for its fresh seafood and local charm.
                         </CardItem>
                         <CardItem translateZ="100" className="w-full mt-4">
                             <Image
@@ -292,7 +292,7 @@ export default function ThreeDCardDemo() {
                 <CardContainer className="inter-var">
                     <CardBody className="bg-gray-50 relative group/card  dark:hover:shadow-2xl dark:hover:shadow-emerald-500/[0.1] dark:bg-black dark:border-white/[0.2] border-black/[0.1] w-auto sm:w-[30rem] h-auto rounded-xl p-6 border  ">
                         <CardItem translateZ="50" className="text-xl font-bold text-neutral-600 dark:text-white">
-                            CeraVe Skincare
+                            CeraVe Skincare
                         </CardItem>
                         <CardItem as="p" translateZ="60" className="text-neutral-500 text-sm max-w-sm mt-2 dark:text-neutral-300">
                             CeraVe provides skincare products with essential ceramides to protect and restore the skin barrier. Suitable for all skin types.
@@ -332,10 +332,10 @@ export default function ThreeDCardDemo() {
                 <CardContainer className="inter-var">
                     <CardBody className="bg-gray-50 relative group/card  dark:hover:shadow-2xl dark:hover:shadow-emerald-500/[0.1] dark:bg-black dark:border-white/[0.2] border-black/[0.1] w-auto sm:w-[30rem] h-auto rounded-xl p-6 border  ">
                         <CardItem translateZ="50" className="text-xl font-bold text-neutral-600 dark:text-white">
-                            Senior Helpers®
+                            Senior Helpers®
                         </CardItem>
                         <CardItem as="p" translateZ="60" className="text-neutral-500 text-sm max-w-sm mt-2 dark:text-neutral-300">
-                            Senior Helpers offers personalized in-home care services for seniors, including companion care, personal care, and dementia support.
+                            Senior Helpers offers personalized in-home care services for seniors&lsquo; including companion care&lsquo; personal care&lsquo; and dementia support.
                         </CardItem>
                         <CardItem translateZ="100" className="w-full mt-4">
                             <Image
@@ -372,10 +372,10 @@ export default function ThreeDCardDemo() {
                 <CardContainer className="inter-var">
                     <CardBody className="bg-gray-50 relative group/card  dark:hover:shadow-2xl dark:hover:shadow-emerald-500/[0.1] dark:bg-black dark:border-white/[0.2] border-black/[0.1] w-auto sm:w-[30rem] h-auto rounded-xl p-6 border  ">
                         <CardItem translateZ="50" className="text-xl font-bold text-neutral-600 dark:text-white">
-                            We Kare Medical Center
+                            We Kare Medical Center
                         </CardItem>
                         <CardItem as="p" translateZ="60" className="text-neutral-500 text-sm max-w-sm mt-2 dark:text-neutral-300">
-                            We Kare Medical Center provides comprehensive primary care, urgent care, and wellness services for patients of all ages.
+                            We Kare Medical Center provides comprehensive primary care&lsquo; urgent care&lsquo; and wellness services for patients of all ages.
 
                         </CardItem>
                         <CardItem translateZ="100" className="w-full mt-4">
@@ -413,10 +413,10 @@ export default function ThreeDCardDemo() {
                 <CardContainer className="inter-var">
                     <CardBody className="bg-gray-50 relative group/card  dark:hover:shadow-2xl dark:hover:shadow-emerald-500/[0.1] dark:bg-black dark:border-white/[0.2] border-black/[0.1] w-auto sm:w-[30rem] h-auto rounded-xl p-6 border  ">
                         <CardItem translateZ="50" className="text-xl font-bold text-neutral-600 dark:text-white">
-                            Norse Painting, LLC
+                            Norse Painting, LLC
                         </CardItem>
                         <CardItem as="p" translateZ="60" className="text-neutral-500 text-sm max-w-sm mt-2 dark:text-neutral-300">
-                            Norse Painting offers residential and commercial painting services with a focus on quality, reliability, and customer satisfaction.
+                            Norse Painting offers residential and commercial painting services with a focus on quality&lsquo; reliability&lsquo; and customer satisfaction.
 
                         </CardItem>
                         <CardItem translateZ="100" className="w-full mt-4">
@@ -454,10 +454,10 @@ export default function ThreeDCardDemo() {
                 <CardContainer className="inter-var">
                     <CardBody className="bg-gray-50 relative group/card  dark:hover:shadow-2xl dark:hover:shadow-emerald-500/[0.1] dark:bg-black dark:border-white/[0.2] border-black/[0.1] w-auto sm:w-[30rem] h-auto rounded-xl p-6 border  ">
                         <CardItem translateZ="50" className="text-xl font-bold text-neutral-600 dark:text-white">
-                            Catran Agency
+                            Catran Agency
                         </CardItem>
                         <CardItem as="p" translateZ="60" className="text-neutral-500 text-sm max-w-sm mt-2 dark:text-neutral-300">
-                            Catran Agency specializes in branding, design, and digital marketing strategies to help businesses grow and stand out.
+                            Catran Agency specializes in branding&lsquo; design&lsquo; and digital marketing strategies to help businesses grow and stand out.
                         </CardItem>
                         <CardItem translateZ="100" className="w-full mt-4">
                             <Image

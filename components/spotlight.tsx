@@ -44,7 +44,7 @@ export const Spotlight = () => {
           </div>
           <h2 className="section-title mt-5">Affordable Plans</h2>
           <p className="section-description mt-5">
-            Choose the plan that fits your business needs. Whether you're just starting or looking to scale, we've got you covered with flexible pricing options.
+            Choose the plan that fits your business needs. Whether you&apos;re just starting or looking to scale&lsquo; we&apos;ve got you covered with flexible pricing options.
           </p>
         </div>
         <div className="relative" ref={cardsContainer}>

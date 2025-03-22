@@ -131,7 +131,7 @@ export function FAQAccordion() {
     <div>
       <div className="section-heading">
         <div className="flex justify-center">
-          <div className="tag">FAQ'S Section</div>
+          <div className="tag">FAQ&apos;S Section</div>
         </div>
         <h2 className="section-title mt-5">Frequently Asked Questions</h2>
         <p className="section-description mt-5 mb-10">

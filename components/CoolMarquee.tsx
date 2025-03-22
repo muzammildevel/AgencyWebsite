@@ -1,7 +1,7 @@
 "use client"
 
-import React, { Fragment, useCallback, useEffect, useRef, useState } from 'react'
-import { motion } from 'framer-motion';
+import React, { Fragment, useCallback, useEffect, useRef, useState } from "react"
+import { motion } from "framer-motion";
 import styles from "@/components/CoolMarquee.module.scss"
 
 type Props = {
@@ -56,7 +56,7 @@ const CoolMarquee = ({ children }: Props) => {
     );
 
     const marqueeAnimation = {
-        x: ['0%', "-75%", '-100%'],
+        x: ["0%", "-75%", "-100%"],
         transition: {
             duration: 3,
             ease: "linear",
