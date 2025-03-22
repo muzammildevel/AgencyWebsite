@@ -1,0 +1,1 @@
+export const BRANDS = ["tiktok", "linkedin", "messenger", "pinterest", "instagram", "whatsapp", "vk", "behance", "x", "facebook"];
