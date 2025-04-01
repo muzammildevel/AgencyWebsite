@@ -56,7 +56,9 @@ const ShowcaseNavbar = () => {
                 Pricing
               </Link>
             </div>
-            
+          </div>
+
+          <div className="flex items-center gap-x-4">
             <a href="tel:7025188345" className="hidden lg:flex">
               <button className="px-4 py-2 rounded-md flex items-center gap-x-3 hover:text-[#ff4321]">
                 +1 (702)-518-8345
