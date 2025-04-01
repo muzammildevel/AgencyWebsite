@@ -13,11 +13,7 @@ export function CoverDemo() {
          z-20 
          bg-clip-text
           text-transparent bg-gradient-to-b from-neutral-800 via-neutral-700 to-neutral-700 dark:from-neutral-800 dark:via-white dark:to-white">
-<<<<<<< HEAD
-        DCS - Design & Marketing That<br />  <Cover>Actually Works</Cover>
-=======
-        Make your brand relate-able with <br />  <Cover>DCS Marketing Strategy</Cover>
->>>>>>> fd0049479d6a98547d0e7d458d7d6c9e6d83c88d
+        DCS - Design & Marketing That  <Cover>Actually Works</Cover>
       </h1>
     </div>
   );
