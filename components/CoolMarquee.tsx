@@ -58,7 +58,11 @@ const CoolMarquee = ({ children }: Props) => {
     const marqueeAnimation = {
         x: ["0%", "-75%", "-100%"],
         transition: {
+<<<<<<< HEAD
             duration: 10,
+=======
+            duration: 3,
+>>>>>>> fd0049479d6a98547d0e7d458d7d6c9e6d83c88d
             ease: "linear",
             repeat: Infinity,
         },

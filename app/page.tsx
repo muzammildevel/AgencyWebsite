@@ -44,7 +44,7 @@ const services = [
     icon: "/images/s_5.png",
     title: "Content Creation",
     description:
-      "DCS can Boost your brand's online presence with our social media marketing services",
+      "DCS can Boost your brand's online presence with DCS social media marketing services",
   },
   {
     icon: "/images/s_3.png",
@@ -56,13 +56,13 @@ const services = [
     icon: "/images/s_4.png",
     title: "Email Marketing",
     description:
-      "With DCS content creation services, DCS help businesses drive results",
+      "With our content creation services, we help businesses drive results",
   },
   {
     icon: "/images/s_2.png",
     title: "Pay-Per-Click Advertising",
     description:
-      "Don't waste money on ineffective advertising. Our DCS PPC services help you reach your target audience",
+      "Don't waste money on ineffective advertising. Our PPC services help you reach your target audience",
   },
 ];
 
